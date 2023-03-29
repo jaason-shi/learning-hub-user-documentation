@@ -20,9 +20,11 @@ Students will need to be able to submit their files as submissions in order to c
 6. **Drag and drop** files directly into the bordered-line box in order to upload the file for submission.
 
 7. **Click** Upload to browse for the file on your local computer.
+![Selecting the file to upload](photos\submit_assignments\upload.png){width="450"}
+   <!-- We will now be selecting the file to upload. -->
 
 8. **Click** Add to include the file for submission.
-
+   ![Adding the file for submission](photos\submit_assignments\add-file.png){width="450"}
 9. Enter any comments you want to submit with the file. **Click** Submit to submit the file for grading.
-
+   ![Submitting the file for submission](photos\submit_assignments\submit.png){width="450"}
 10. "Submission submitted!" will be displayed on the screen if you have followed the steps correctly.
