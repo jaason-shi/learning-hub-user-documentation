@@ -1,9 +1,9 @@
 site_name: BCIT Learning Hub Documentation
 nav:
   - Home: index.md
-  - Enrolling into Groups: task1.md
-  - Submitting Assignment: task2.md
-  - Creating Discussion Thread: task3.md
+  - Enrolling in a Group Assignment: task1.md
+  - Submitting an Assignment: task2.md
+  - Creating a Discussion Thread: task3.md
   - Troubleshooting: troubleshoot.md
   - Glossary: glossary.md
 
