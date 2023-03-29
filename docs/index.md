@@ -1,17 +1,11 @@
 # Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello! Welcome the User Documentation for the application Brithspace Pulse, also known as Pulse. Pulse is an educational application that integrates the post-secondary institution platform known as D2L (previously known as LearningHub) so that students can stay connected to their courses from their mobile device!  
 
-## Commands
+## Is This Guide For You?
+This guide is intended for students who attend university or college that uses D2L as the official online learning platform.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+##  Operating system
+Brightspace Pulse is made for mobile devices that are have the operating systems Android 5.0 or later, and iOS 11.0 or later.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Conventions
