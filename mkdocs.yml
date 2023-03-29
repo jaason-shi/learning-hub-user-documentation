@@ -1,7 +1,37 @@
-site_name: Pulse User Documentation
+site_name: BCIT Learning Hub Documentation
+nav:
+  - Home: index.md
+  - Task 1: task1.md
+  - Task 2: task2.md
+  - Task 3: task3.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
 theme:
   name: material
 markdown_extensions:
   - attr_list
   - attr_list
   - md_in_html
+
+palette:
+  # Light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: blue grey
+    accent: deep purple
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+
+  # Dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: red
+    accent: red
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+
+  # Necessary for search to work properly
+include_search_page: false
+search_index_only: true
