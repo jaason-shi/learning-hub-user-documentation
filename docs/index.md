@@ -4,9 +4,7 @@ Hello! Welcome the User Documentation for Learning Hub. Learning Hub, previously
 
 ## Is This Guide For You?
 
-This guide is intended for students who attend university or college that uses Learning Hub as the official learning platform. This guide will also help you learn how to use Learning Hub to enroll in a group for group assignments, submit assignments, and creating discussion threads to interact with your instructors and peers.
-
-## Conventions
+This guide is intended for students who attend university or college that uses Learning Hub as the official learning platform. This guide will also help you learn how to use Learning Hub to [enroll in a group for group assignments](task1.md), [submit assignments](task2.md), and [creating discussion threads](task3.md) to interact with your instructors and peers.
 
 ## Prerequisites
 
@@ -15,6 +13,15 @@ The documentation assumes the following:
 - You are a student at BCIT and currently enrolled in courses
 - You have a Learning Hub account.
 - You have a basic understanding of how to use a computer and a web browser.
+
+## Conventions
+
+The following conventions are used in this guide:
+
+- Click on a button or link to perform an action.
+- Type text into a field.
+- Select an option from a list.
+- Select a dropbox to enable or disable a feature.
 
 ## Notes and Warning Messages
 
