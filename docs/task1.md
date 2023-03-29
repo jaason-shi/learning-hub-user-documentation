@@ -40,3 +40,11 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
     !!! warning
         For assignments that are set to groups, you must **first** join a group in order to view the assignment.
   
+## Conclusion
+
+By the end of this section, will have successfully:
+
+* Enrolled into a Group on Learning Hub
+* Access a Group Assignment on Learning Hub
+
+You can now work on your assignment. Good luck!
