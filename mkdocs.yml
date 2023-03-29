@@ -9,6 +9,8 @@ nav:
 
 theme:
   name: material
+  features:
+    - toc.integrate
 
 markdown_extensions:
   - attr_list
