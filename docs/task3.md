@@ -37,7 +37,7 @@ Some classes may require you to create a discussion post about course materials.
 
     ![Blue Post button](\photos\discussion\post.png){width="450"}
 
-    !!! tip
+    !!! info
         If you ***do not*** want to receive updates about this thread, you can **Un-select** "Subscribe to this thread" **before** clicking post. By default, this check box is selected.  
         ![](\photos\discussion\subscribe.png){width="400"}
 
