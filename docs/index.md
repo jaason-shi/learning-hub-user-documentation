@@ -4,9 +4,24 @@ Hello! Welcome the User Documentation for Learning Hub. Learning Hub, previously
 
 ## Is This Guide For You?
 
-This guide is intended for students who attend university or college that uses Learning Hub as the official online learning platform.
-
-<!-- ##  Operating system
-Brightspace Pulse is made for mobile devices that are have the operating systems Android 5.0 or later, and iOS 11.0 or later. -->
+This guide is intended for students who attend university or college that uses Learning Hub as the official learning platform. This guide will also help you learn how to use Learning Hub to submit your assignments, join groups for group assignments, and creating discussion threads to interact with your instructors and peers.
 
 ## Conventions
+
+## Prerequisites
+
+The documentation assumes the following:
+
+- You are a student at BCIT and currently enrolled in courses
+- You have a Learning Hub account.
+- You have a basic understanding of how to use a computer and a web browser.
+
+## Notes and Warning Messages
+
+!!! warning
+
+!!! info
+Indicates additional information that may be useful.
+!!! tip
+Indicates a tip for better usability.
+!!! success
