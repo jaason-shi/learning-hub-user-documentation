@@ -4,7 +4,7 @@ Hello! Welcome the User Documentation for Learning Hub. Learning Hub, previously
 
 ## Is This Guide For You?
 
-This guide is intended for students who attend university or college that uses Learning Hub as the official learning platform. This guide will also help you learn how to use Learning Hub to submit your assignments, join groups for group assignments, and creating discussion threads to interact with your instructors and peers.
+This guide is intended for students who attend university or college that uses Learning Hub as the official learning platform. This guide will also help you learn how to use Learning Hub to enroll in a group for group assignments, submit assignments, and creating discussion threads to interact with your instructors and peers.
 
 ## Conventions
 
@@ -19,9 +19,10 @@ The documentation assumes the following:
 ## Notes and Warning Messages
 
 !!! warning
-
+Specifies to the user that they should be careful when performing a task.
 !!! info
 Indicates additional information that may be useful.
 !!! tip
 Indicates a tip for better usability.
 !!! success
+Indicates when a task has been completed successfully.
