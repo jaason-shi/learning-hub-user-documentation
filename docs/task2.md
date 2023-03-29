@@ -4,7 +4,7 @@ Students will need to be able to submit their files as submissions in order to c
 
 ## To Submit Assignments
 
-1. From the home screen, tap the Courses tab to access the list of courses you are enrolled in.
+1. From the landing page, tap the Courses tab to access the list of courses you are enrolled in.
 
 2. Tap the course you want to submit an assignment for.
 
@@ -16,6 +16,6 @@ Students will need to be able to submit their files as submissions in order to c
 
 6. Follow the assignment instructions to complete the assignment and do one of the following:
 
-   a. To submit a Text Submission, type your assignment directly in the Text Submission field if you need to type it in.
-   b. Alternatively you can type a link to a document in the Text Submission field.
-   c. To submit using a File, click Add a File to browse for the file on your local computer and then click Add. Enter any comments you want to submit with the file. Click Submit.
+   1. Type directly into the Text Submission field to submit a text submission, then click Submit.
+   2. Alternatively you can type a link to a document in the Text Submission field.
+   3. Click Add a File to browse for the file on your local computer to submit and then click Add. Enter any comments you want to submit with the file. Click Submit.
