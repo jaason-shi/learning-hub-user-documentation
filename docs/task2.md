@@ -5,6 +5,7 @@ Students will need to be able to submit their files as submissions in order to c
 ## Submitting Assignments
 
 1. From the landing page, tap the Courses tab to access the list of courses you are enrolled in.
+   ![testpicture](photos\submit_assignments\courses.png)
 
 2. Tap the course you want to submit an assignment for.
 
@@ -14,12 +15,12 @@ Students will need to be able to submit their files as submissions in order to c
 
 5. On the Assignments page, click on the assignment you want to submit.
 
-6. Click Add a File to browse for the file on your local computer
+6. Click Add a File to browse for the file on your local computer.
 
-7. Drag and drop files directly into the bordered-line box in order to upload the file for submission. **_note_** you can upload more than 1 file up to a maximum of 2 GB.
+7. Drag and drop files directly into the bordered-line box in order to upload the file for submission. **NOTE:** you can upload more than 1 file up to a maximum of 2 GB.
 
-   - click the Upload button to browse for the file on your local computer.
+   - Click the Upload button to browse for the file on your local computer.
 
-8. Click ADD to include the file for submission
+8. Click ADD to include the file for submission.
 
 9. Enter any comments you want to submit with the file. Click Submit to submit the file for grading.
