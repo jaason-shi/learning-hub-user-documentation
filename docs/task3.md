@@ -28,12 +28,15 @@ Some classes may require you to create a discussion post about course materials.
 * If you ***do not*** want to receive updates about this thread, you can **Un-select** "Subscribe to this thread". By default, this check box is selected.  
 ![](\photos\discussion\subscribe.png){width="400"}
 
+!!! note
+
+    You can save your discussion post by clicking **Save as Draft**, so you can view and edit it at a later time before posting it.
+
 8. **Click** Post.
 
 ![Blue Post button](\photos\discussion\post.png){width="450"}
 
-### Success!
-You have successfully created a discussion thread for your course!
-
-### Note
-You can save your discussion post by clicking Save as Draft, so you can view and edit it at a later time before posting it.
+!!! success
+    
+    You have successfully created a discussion thread for your course!
+    
