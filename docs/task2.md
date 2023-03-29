@@ -4,23 +4,25 @@ Students will need to be able to submit their files as submissions in order to c
 
 ## Submitting Assignments
 
-1. From the landing page, tap the Courses tab to access the list of courses you are enrolled in.
-   ![testpicture](photos\submit_assignments\courses.png)
+1. From the landing page, **Click** the course you want to submit an assignment for.
+![Selecting a course from the landing page](photos\submit_assignments\courses.png){width="450"}
+   <!-- We will now be selecting the COMP 2121 course. -->
+2. **Click** Activities to open a drop-down menu.
+![Selecting the Activities option from the drop-down menu](photos\submit_assignments\assignment_drop_down.png){width="450"}
+   <!-- We will now be selecting the Assignments option. -->
+3. **Click** Assignments to access the list of assignments for the course.
+   <!-- We will now be selecting the Assignment 3 option. -->
+4. On the Assignments page, **Click** on the assignment you want to submit.
+![List of Assignments available](photos\submit_assignments\assignments.png){width="450"}
+   <!-- We will now be clicking on Assignment 3 to submit. -->
+5. **Click** Add a File to browse for the file on your local computer. There are two options to proceed with. Pick either one and then continue onto Step 9. **CAUTION:** You can upload more than 1 file up to a maximum of 2 GB.
+   ![Selecting the assignment to submit](photos\submit_assignments\assignment3.png){width="500"}
+6. **Drag and drop** files directly into the bordered-line box in order to upload the file for submission.
 
-2. Tap the course you want to submit an assignment for.
+7. **Click** Upload to browse for the file on your local computer.
 
-3. Click Activities to open a drop-down menu.
+8. **Click** Add to include the file for submission.
 
-4. Click Assignments to access the list of assignments for the course.
+9. Enter any comments you want to submit with the file. **Click** Submit to submit the file for grading.
 
-5. On the Assignments page, click on the assignment you want to submit.
-
-6. Click Add a File to browse for the file on your local computer.
-
-7. Drag and drop files directly into the bordered-line box in order to upload the file for submission. **NOTE:** you can upload more than 1 file up to a maximum of 2 GB.
-
-   - Click the Upload button to browse for the file on your local computer.
-
-8. Click ADD to include the file for submission.
-
-9. Enter any comments you want to submit with the file. Click Submit to submit the file for grading.
+10. "Submission submitted!" will be displayed on the screen if you have followed the steps correctly.
