@@ -38,7 +38,7 @@ Some classes may require you to create a discussion post about course materials.
     ![Blue Post button](\photos\discussion\post.png){width="450"}
 
     !!! info
-        If you ***do not*** want to receive updates about this thread, you can **Un-select** "Subscribe to this thread" **before** clicking post. By default, this check box is selected.  
+        If you ***do not*** want to receive notifications about this thread, you can **Un-select** "Subscribe to this thread" **before** clicking post. By default, this check box is selected.  
         ![](\photos\discussion\subscribe.png){width="400"}
 
     !!! tip
@@ -47,3 +47,12 @@ Some classes may require you to create a discussion post about course materials.
 !!! success
     
     You have successfully created a discussion thread for your course!
+
+## Conclusion
+
+By the end of this section, will have successfully learned:
+
+* How to create a discussion thread
+* How to unsubscribe to notifications for the discussion thread
+* How to save a discussion thread as a draft
+

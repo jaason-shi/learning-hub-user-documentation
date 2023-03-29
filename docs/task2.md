@@ -47,3 +47,12 @@ Students will need to be able to submit their files as submissions in order to c
 !!! success
 
     You have successfully submitted your assignment!
+
+## Conclusion
+
+By the end of this section, will have successfully learned:
+
+* How to submit an assignment by adding a file from your computer
+* How to submit an assignment by dragging and dropping a file
+
+Good work!
