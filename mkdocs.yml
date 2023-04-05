@@ -7,11 +7,6 @@ nav:
   - Troubleshooting: troubleshoot.md
   - Glossary: glossary.md
 
-theme:
-  name: material
-  features:
-    - toc.integrate
-
 markdown_extensions:
   - attr_list
   - attr_list
@@ -19,3 +14,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+theme:
+  name: material
+  features:
+    - toc.integrate
