@@ -20,8 +20,6 @@ The following conventions are used in this guide:
 
 - **Click:** Use your mouse to press a button or link to perform an action.
 - **Type:** Write text into a field using a keyboard.
-- **Select:** Click an option from a list.
-- **Select:** Click a dropbox to enable or disable a feature.
 - *Italicized* items represent the name of the button to click.
 
 ## Notes and Warning Messages
