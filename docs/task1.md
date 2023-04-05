@@ -4,7 +4,7 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
 
 1. From the landing page, **Click** on the relevant course that you need to join a group for.
 
-    ![Selecing a course from the landing page](photos/enroll-group/course-select.png){width="450"}
+    ![Selecting a course from the landing page](photos/enroll-group/course-select.png){width="450"}
 
 2. On the top navbar, **Click** _Course Tools_ to open a dropdown menu.
 
@@ -29,7 +29,7 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
 
     ![Click Activiites in the navbar](photos/enroll-group/activities-dropdown.png){width="450"}
 
-7. **Click** _Assignments_ to view the Assignment List where you should now see the Group Assignment posted and its corresponding dropbox.
+7. From the _Activities_ Dropdown menu, **Click** _Assignments_ to view the Assignment List where you should now see the Group Assignment posted and its corresponding dropbox.
 
     ![Click Assignments in the dropdown menu](photos/discussion/navbar.png){width="450"}
 

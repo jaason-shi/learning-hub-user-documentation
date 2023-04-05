@@ -8,11 +8,11 @@ Some classes may require you to create a discussion post about course materials.
 
     ![Selecting a course from the landing page](photos/discussion/course-select.png){width="450"}
 
-2. On the top navbar, **Click** *Activities* to open a drop-down menu.
+2. On the top navbar, **Click** *Activities* to open a dropdown menu.
     
        ![Navbar in the course](photos/discussion/navbar.png){width="450"}
 
-3. **Click** *Discussions* to get to the Discussions List for the course.
+3. From the *Activities* dropdown menu, **Click** *Discussions* to get to the Discussions List for the course.
     
      ![Click Discussions in the Dropdown menu](photos/discussion/dropdown.png){width="450"}
 
@@ -32,13 +32,12 @@ Some classes may require you to create a discussion post about course materials.
 
      ![Click the topic you want to write to in the Discussion list](photos/discussion/write-post.png){width="450"}
 
-
 8. **Click** *Post*.
 
      ![Blue Post button](photos/discussion/post.png){width="450"}
 
     !!! info
-        If you ***do not*** want to receive notifications about this thread, you can **Un-select** "Subscribe to this thread" **before** clicking post. By default, this check box is selected.  
+        If you ***do not*** want to receive notifications about this thread, you can **Un-select** *Subscribe to this thread* before clicking Post. By default, this check box is selected.  
         ![](photos/discussion/subscribe.png){width="400"}
 
     !!! tip

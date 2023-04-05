@@ -25,10 +25,10 @@ The following conventions are used in this guide:
 ## Notes and Warning Messages
 
 !!! warning
-Specifies to the user to read the message in order to perform the task correctly.
+     Specifies to the user to read the message in order to perform the task correctly.
 !!! info
-Indicates additional information that may be useful.
+     Indicates additional information that may be useful.
 !!! tip
-Indicates a tip for better usability.
+     Indicates a tip for better usability.
 !!! success
-Indicates when a task has been completed successfully.
+     Indicates when a task has been completed successfully.
