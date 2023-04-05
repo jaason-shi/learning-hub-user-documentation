@@ -4,7 +4,7 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
 
 1. From the landing page, **Click** on the relevant course that you need to join a group for.
 
-    ![Selecing a course from the landing page](docs/photos/enroll-group/course-select.png){width="450"}
+    ![Selecing a course from the landing page](./docs/photos/enroll-group/course-select.png){width="450"}
 
 2. On the top navbar, **Click** Course Tools to open a dropdown menu.
 
