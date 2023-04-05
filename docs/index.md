@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! Welcome the User Documentation for Learning Hub. Learning Hub, previously known as Brightspace by D2L, is an educational management platform for post-secondary institutions. The platform allows instructors and learners to use online tools to manage their courses.
+Hello! Welcome to the User Documentation for Learning Hub. Learning Hub, previously known as Brightspace by D2L, is an educational management platform for post-secondary institutions. The platform allows instructors and learners to use online tools to manage their courses.
 
 ## Is This Guide For You?
 
