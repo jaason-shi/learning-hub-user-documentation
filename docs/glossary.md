@@ -1,6 +1,6 @@
 # Glossary
 
-| **Syntax**              | **Description**                                                                                                                                                                                     |
+| **Syntax**              | **Definition**                                                                                                                                                                                      |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BCIT Learning Hub (D2L) | A learning management system that is used by BCIT to deliver course material, assignments, and grades.                                                                                              |
 | Dropdown Menu           | A website component that offers a list of options for the category of the button once clicked.                                                                                                      |
