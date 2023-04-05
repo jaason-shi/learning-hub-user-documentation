@@ -25,10 +25,6 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
     !!! info
         You can also see the maximum nmber of people that can be enrolled in each group and check if that group has been filled.
 
-    !!! success
-        You have successfully enrolled into a group with your classmates.
-    
-
 6. **Click** Activities in the navbar to open up a dropdown menu.
 
     ![Click Activiites in the navbar](photos/enroll-group/activities-dropdown.png){width="450"}
@@ -39,6 +35,10 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
 
     !!! warning
         For assignments that are set to groups, you must **first** join a group in order to view the assignment.
+
+
+!!! success
+    You have successfully enrolled into a group with your classmates and you can view your group assignments.
   
 ## Conclusion
 
