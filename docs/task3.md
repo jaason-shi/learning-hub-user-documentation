@@ -9,11 +9,9 @@ Some classes may require you to create a discussion post about course materials.
     ![Selecting a course from the landing page](photos/discussion/course-select.png){width="450"}
 
 2. On the top navbar, **Click** Activities to open a drop-down menu.
-
-   ![Navbar in the course](photos/discussion/navbar.png){width="450"}
+    ![Navbar in the course](photos/discussion/navbar.png){width="450"}
 
 3. **Click** Discussions to get to the Discussions List for the course.
-  
     ![Click Discussions in the Dropdown menu](photos/discussion/dropdown.png){width="450"}
 
 4. **Click** on the topic where you want to write to in the Discussion List.
