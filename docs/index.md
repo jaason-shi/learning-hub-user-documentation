@@ -18,18 +18,18 @@ The documentation assumes the following:
 
 The following conventions are used in this guide:
 
-- Click on a button or link to perform an action.
-- Type text into a field.
-- Select an option from a list.
-- Select a dropbox to enable or disable a feature.
+- **Click:** Use your mouse to press a button or link to perform an action.
+- **Type:** Write text into a field using a keyboard.
+- **Select:** Click an option from a list.
+- **Select:** Click a dropbox to enable or disable a feature.
 
 ## Notes and Warning Messages
 
 !!! warning
-Specifies to the user that they should be careful when performing a task.
+    Specifies to the user that they should be careful when performing a task.
 !!! info
-Indicates additional information that may be useful.
+    Indicates additional information that may be useful.
 !!! tip
-Indicates a tip for better usability.
+    Indicates a tip for better usability.
 !!! success
-Indicates when a task has been completed successfully.
+    Indicates when a task has been completed successfully.
