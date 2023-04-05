@@ -44,7 +44,9 @@ Students will need to be able to submit their files as submissions in order to c
 
      ![Submitting the file for submission](photos/submit_assignments/submit.png){width="450"}
 
-10. "Submission submitted!" will be displayed on the screen if you have followed the steps correctly.
+10. If you have successfully submitted your assignment, a Submission ID as well as a "Confirmation Email Sent Successfully" message will be displayed on the screen.
+
+      ![Confirmation Email Sent Successfully](photos/submit_assignments/submission.png){width="450"}
 
 !!! success
 
