@@ -14,7 +14,7 @@ The documentation assumes the following:
 - You have a Learning Hub account.
 - You have a basic understanding of how to use a computer and a web browser.
 
-## Conventions
+## Typographic Conventions
 
 The following conventions are used in this guide:
 
@@ -22,11 +22,12 @@ The following conventions are used in this guide:
 - **Type:** Write text into a field using a keyboard.
 - **Select:** Click an option from a list.
 - **Select:** Click a dropbox to enable or disable a feature.
+- *Italicized* items represent the name of the button to click.
 
 ## Notes and Warning Messages
 
 !!! warning
-    Specifies to the user that they should be careful when performing a task.
+    Specifies to the user to read the message in order to perform the task correctly.
 !!! info
     Indicates additional information that may be useful.
 !!! tip
