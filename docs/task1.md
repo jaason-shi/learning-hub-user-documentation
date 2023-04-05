@@ -20,7 +20,7 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
 
 5. **Click** Join Group for the group you want to join.
 
-    ![Click the Join Group button](\photos\enroll-group\join-group.png){width="450"}
+    ![Click the Join Group button](docs/photos/enroll-group/join-group.png){width="450"}
 
     !!! info
         You can also see the maximum nmber of people that can be enrolled in each group and check if that group has been filled.
