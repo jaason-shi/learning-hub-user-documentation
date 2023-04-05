@@ -1,6 +1,6 @@
-# How To Enroll Into A Group To View Assignemnt
+# How To Enroll Into A Group To View Assignment
 
-For some courses such as COMP 2714: Relational Database, you may need to join a group within your class to complete group assignments.
+For some courses at BCIT, you may need to join a group within your class to complete group assignments.
 
 1. From the landing page, **Click** on the relevant course that you need to join a group for.
 
@@ -23,11 +23,11 @@ For some courses such as COMP 2714: Relational Database, you may need to join a 
     ![Click the Join Group button](photos/enroll-group/join-group.png){width="450"}
 
     !!! info
-        You can also see the maximum nmber of people that can be enrolled in each group and check if that group has been filled.
+        You can also see the maximum number of people that can be enrolled in each group and check if that group has been filled.
 
 6. **Click** _Activities_ in the navbar to open up a dropdown menu.
 
-    ![Click Activiites in the navbar](photos/enroll-group/activities-dropdown.png){width="450"}
+    ![Click Activites in the navbar](photos/enroll-group/activities-dropdown.png){width="450"}
 
 7. From the _Activities_ Dropdown menu, **Click** _Assignments_ to view the Assignment List where you should now see the Group Assignment posted and its corresponding dropbox.
 
