@@ -26,7 +26,7 @@ Students will need to be able to submit their files as submissions in order to c
     ![Selecting the assignment to submit](photos/submit_assignments/assignment3.png){width="450"}
 
     !!! warning
-        You can upload more than 1 file up to a maximum of 2 GB.
+        You will not be able to upload a file that is more than 2 GB.
 
 6. **Drag and drop** files directly into the bordered-line box in order to upload the file for submission.
 
