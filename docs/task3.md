@@ -8,19 +8,19 @@ Some classes may require you to create a discussion post about course materials.
 
     ![Selecting a course from the landing page](photos/discussion/course-select.png){width="450"}
 
-2. On the top navbar, **Click** Activities to open a drop-down menu.
+2. On the top navbar, **Click** *Activities* to open a drop-down menu.
     
        ![Navbar in the course](photos/discussion/navbar.png){width="450"}
 
-3. **Click** Discussions to get to the Discussions List for the course.
+3. **Click** *Discussions* to get to the Discussions List for the course.
     
      ![Click Discussions in the Dropdown menu](photos/discussion/dropdown.png){width="450"}
 
-4. **Click** on the topic where you want to write to in the Discussion List.
+4. **Click** on the topic where you want to write to in the *Discussion List*.
 
      ![Click the topic you want to write to in the Discussion list](photos/discussion/discussion-list.png){width="450"}
 
-5. **Click** the Start a New Thread button.
+5. **Click** the *Start a New Thread* button.
  
      ![Click the topic you want to write to in the Discussion list](photos/discussion/start-new-thread.png){width="450"}
 
@@ -33,7 +33,7 @@ Some classes may require you to create a discussion post about course materials.
      ![Click the topic you want to write to in the Discussion list](photos/discussion/write-post.png){width="450"}
 
 
-8. **Click** Post.
+8. **Click** *Post*.
 
      ![Blue Post button](photos/discussion/post.png){width="450"}
 
